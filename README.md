@@ -68,8 +68,8 @@ This project was partially inspired by a design found on Pinterest for the hero 
 ## 👨‍💻 Author
 
 Ahmed Abdelhamid
-🔗 GitHub: https://github.com/AhmedAbdelhamid-codes
-🔗 LinkedIn: https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b/
+* 🔗 GitHub: https://github.com/AhmedAbdelhamid-codes
+* 🔗 LinkedIn: https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b/
 
 ---
 
