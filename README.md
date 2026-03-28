@@ -62,7 +62,7 @@ This project was partially inspired by a design found on Pinterest for the hero 
 
 ---
 ## 🔗 Live Demo
-🔗 https://keen-llama-3e4fd3.netlify.app
+🔗 https://teal-pie-ca667e.netlify.app
 
 ---
 ## 👨‍💻 Author
