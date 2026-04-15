@@ -62,7 +62,7 @@ This project was partially inspired by a design found on Pinterest for the hero 
 
 ---
 ## 🌐 Live Demo
-👉 [View Website](gorgeous-otter-0b5f93.netlify.app)
+👉 [View Website](https://gorgeous-otter-0b5f93.netlify.app)
 
 ## 🔗 Links
 - GitHub: [Ahmed Abdelhamid](https://github.com/AhmedAbdelhamid-codes)
