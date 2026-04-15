@@ -61,16 +61,18 @@ This project was partially inspired by a design found on Pinterest for the hero 
 * Optimize performance and images
 
 ---
-## 🔗 Live Demo
-🔗 https://teal-pie-ca667e.netlify.app
+## 🌐 Live Demo
+👉 [View Website](gorgeous-otter-0b5f93.netlify.app)
 
----
+## 🔗 Links
+- GitHub: [Ahmed Abdelhamid](https://github.com/AhmedAbdelhamid-codes)
+- LinkedIn: [Ahmed Abdelhamid](https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b/)
+
+## 📌 Notes
+This project was built for learning and practice purposes to improve frontend skills, especially responsive design and layout structuring.
+
 ## 👨‍💻 Author
-
-Ahmed Abdelhamid
-* 🔗 GitHub: https://github.com/AhmedAbdelhamid-codes
-* 🔗 LinkedIn: https://www.linkedin.com/in/ahmed-abdelhamid-b4905837b/
-
+- Ahmed Abdelhamid
 ---
 
 ## ⭐ Don't forget!
