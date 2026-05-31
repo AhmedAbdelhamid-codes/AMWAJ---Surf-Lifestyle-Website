@@ -600,20 +600,19 @@
     <!-- ============CONTACT US=========== -->
 
     <section class="CONTACT" id="CONTACT">
-     
       <div class="contact_word">
         <div class="back"><h2>CONTACT</h2></div>
         <div class="front"><h3>CONTACT</h3></div>
       </div>
 
       <div class="contact_container">
-        <form>
+        <form id="contact-form">
           <h2>CONTACT US</h2>
-          <input type="text" placeholder="full name" name="full name" />
-          <input type="number" placeholder="Phone number" name="Phone number" />
-          <input type="email" placeholder="Your Email" name="Your Email" />
-          <textarea name="Message" id="" placeholder="your Message"></textarea>
-          <button>SEND</button>
+          <input type="text" placeholder="full name" name="full name" required/>
+          <input type="number" placeholder="Phone number" name="Phone number" required />
+          <input type="email" placeholder="Your Email" name="Email" required/>
+          <textarea name="Message" id="" placeholder="your Message" required></textarea>
+          <button type="submit">SEND</button>
         </form>
       </div>
     </section>
@@ -640,5 +639,19 @@
         <p>© 2026 <span class="amwaj">AMWAJ</span>.All rights reserved.</p>
       </div>
     </footer>
+
+  
+
+<!-- EmailJS -->
+<script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+
+<script>
+  (function () {
+    emailjs.init("t8HRZqs6d2ZDXl7e3");
+  })();
+</script>
+
+<!-- Your JS file -->
+<script src="./main.js"></script>
   </body>
 </html>
